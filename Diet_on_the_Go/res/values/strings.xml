@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoGo</string>
+    <string name="hello_world">DIET On The GO</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_display">Are you in mood to eat?</string>
+    <string name="DIET_Restriction">Any DIET Restrictions?</string>
+    <string name="to_ing_from_dish">What ingredients do you prefer or what do you have in the pantry?</string>
+    <string name="to_dish">Let us start with the dish you will like then shall we?</string>
+    <string name="to_cus_from_ing">Any specific cusine interests you?</string>
+    <string name="apply_watson_br">apply_watson_br</string>
+    <string name="GoWATSON">Go WATSON</string>
+    <string name="next">NEXT</string>
+    <string name="exit">exit</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="title_activity_go_to_dish">GoToDish</string>
+    <string name="title_activity_go_to_ingredients_from_dish">GoToIngredientsFromDish</string>
+    <string name="title_activity_go_to_cusine_from_ingredients">GoToCusineFromIngredients</string>
+    <string name="title_activity_apply__watson__br">Apply_WATSON_BR</string>
+    <string name="title_activity_set__diet__restrictions">Set_DIET_Restrictions</string>
+    <string name="check_diet_restrictions">check_diet_restrictions</string>
+    <string name="samplediet_restriction">Eg. to exclude any ingredient just type the ingredient name for eg. sugar salt milk</string>
+    <string name="sampledish"> eg. Breakfast,Soup Dinner,Salad></string>
+    <string name="sampleingredient">eg. Cheese,Salt,Chicken"</string>
+    <string name="samplecusine">eg. Indian or Thai or American"</string>
+</resources>
